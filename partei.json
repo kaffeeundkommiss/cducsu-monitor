@@ -1,0 +1,329 @@
+{
+  "stand": "2026-11-10",
+  "vorsitz_titel": "Amtszeiten seit 1950",
+  "wahlen": [
+    {
+      "jahr": 1998,
+      "datum": "1998-09-27",
+      "ergebnis": 35.1,
+      "sitze": 245,
+      "rolle": "Opposition",
+      "vorsitz": "Helmut Kohl"
+    },
+    {
+      "jahr": 2002,
+      "datum": "2002-09-22",
+      "ergebnis": 38.5,
+      "sitze": 248,
+      "rolle": "Opposition",
+      "vorsitz": "Angela Merkel"
+    },
+    {
+      "jahr": 2005,
+      "datum": "2005-09-18",
+      "ergebnis": 35.2,
+      "sitze": 226,
+      "rolle": "Regierung",
+      "vorsitz": "Angela Merkel"
+    },
+    {
+      "jahr": 2009,
+      "datum": "2009-09-27",
+      "ergebnis": 33.8,
+      "sitze": 239,
+      "rolle": "Regierung",
+      "vorsitz": "Angela Merkel"
+    },
+    {
+      "jahr": 2013,
+      "datum": "2013-09-22",
+      "ergebnis": 41.5,
+      "sitze": 311,
+      "rolle": "Regierung",
+      "vorsitz": "Angela Merkel"
+    },
+    {
+      "jahr": 2017,
+      "datum": "2017-09-24",
+      "ergebnis": 32.9,
+      "sitze": 246,
+      "rolle": "Regierung",
+      "vorsitz": "Angela Merkel"
+    },
+    {
+      "jahr": 2021,
+      "datum": "2021-09-26",
+      "ergebnis": 24.1,
+      "sitze": 197,
+      "rolle": "Opposition",
+      "vorsitz": "Armin Laschet"
+    },
+    {
+      "jahr": 2025,
+      "datum": "2025-02-23",
+      "ergebnis": 28.5,
+      "sitze": 208,
+      "rolle": "Regierung",
+      "vorsitz": "Friedrich Merz"
+    }
+  ],
+  "vorsitzende": [
+    {
+      "nr": 1,
+      "name": "Konrad Adenauer",
+      "beginn": "1950-10-20",
+      "ende": "1966-03-23"
+    },
+    {
+      "nr": 2,
+      "name": "Ludwig Erhard",
+      "beginn": "1966-03-23",
+      "ende": "1967-05-23"
+    },
+    {
+      "nr": 3,
+      "name": "Kurt Georg Kiesinger",
+      "beginn": "1967-05-23",
+      "ende": "1971-10-05"
+    },
+    {
+      "nr": 4,
+      "name": "Rainer Barzel",
+      "beginn": "1971-10-05",
+      "ende": "1973-06-12"
+    },
+    {
+      "nr": 5,
+      "name": "Helmut Kohl",
+      "beginn": "1973-06-12",
+      "ende": "1998-11-07"
+    },
+    {
+      "nr": 6,
+      "name": "Wolfgang Schäuble",
+      "beginn": "1998-11-07",
+      "ende": "2000-02-16"
+    },
+    {
+      "nr": 7,
+      "name": "Angela Merkel",
+      "beginn": "2000-04-10",
+      "ende": "2018-12-07"
+    },
+    {
+      "nr": 8,
+      "name": "Annegret Kramp-Karrenbauer",
+      "beginn": "2018-12-07",
+      "ende": "2021-01-22"
+    },
+    {
+      "nr": 9,
+      "name": "Armin Laschet",
+      "beginn": "2021-01-22",
+      "ende": "2022-01-22"
+    },
+    {
+      "nr": 10,
+      "name": "Friedrich Merz",
+      "beginn": "2022-01-31",
+      "ende": null
+    }
+  ],
+  "zeitleiste": [
+    {
+      "spur": "Rolle im Bund",
+      "label": "Opposition",
+      "von": "1998-10",
+      "bis": "2005-11",
+      "status": "Opposition"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Große Koalition",
+      "von": "2005-11",
+      "bis": "2009-10",
+      "status": "Regierung"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Schwarz-Gelb",
+      "von": "2009-10",
+      "bis": "2013-12",
+      "status": "Regierung"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Große Koalition",
+      "von": "2013-12",
+      "bis": "2021-12",
+      "status": "Regierung"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Opposition",
+      "von": "2021-12",
+      "bis": "2025-05",
+      "status": "Opposition"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Schwarz-Rot",
+      "von": "2025-05",
+      "bis": null,
+      "status": "Regierung"
+    },
+    {
+      "spur": "Vorsitz CDU",
+      "label": "Kohl",
+      "von": "1973-06",
+      "bis": "1998-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CDU",
+      "label": "Schäuble",
+      "von": "1998-11",
+      "bis": "2000-02",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CDU",
+      "label": "Merkel",
+      "von": "2000-04",
+      "bis": "2018-12",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CDU",
+      "label": "Kramp-Karrenbauer",
+      "von": "2018-12",
+      "bis": "2021-01",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CDU",
+      "label": "Laschet",
+      "von": "2021-01",
+      "bis": "2022-01",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CDU",
+      "label": "Merz",
+      "von": "2022-01",
+      "bis": null,
+      "status": "laufend"
+    },
+    {
+      "spur": "Vorsitz CSU",
+      "label": "Waigel",
+      "von": "1988-11",
+      "bis": "1999-01",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CSU",
+      "label": "Stoiber",
+      "von": "1999-01",
+      "bis": "2007-09",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CSU",
+      "label": "Huber",
+      "von": "2007-09",
+      "bis": "2008-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CSU",
+      "label": "Seehofer",
+      "von": "2008-10",
+      "bis": "2019-01",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz CSU",
+      "label": "Söder",
+      "von": "2019-01",
+      "bis": null,
+      "status": "laufend"
+    },
+    {
+      "spur": "Grundsatzprogramm",
+      "label": "Freiheit in Verantwortung (Hamburg)",
+      "von": "1994-02",
+      "bis": "2007-12",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Grundsatzprogramm",
+      "label": "Freiheit und Sicherheit (Hannover)",
+      "von": "2007-12",
+      "bis": "2024-05",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Grundsatzprogramm",
+      "label": "In Freiheit leben",
+      "von": "2024-05",
+      "bis": null,
+      "status": "laufend"
+    }
+  ],
+  "belege": {
+    "wahlen": [
+      {
+        "name": "Deutscher Bundestag: Wahlergebnisse seit 1949",
+        "url": "https://www.bundestag.de/parlament/wahlen/ergebnisse_seit1949-244692"
+      },
+      {
+        "name": "wahlrecht.de: Bundestagswahlen (Prozente und Sitze)",
+        "url": "https://www.wahlrecht.de/ergebnisse/bundestag.htm"
+      }
+    ],
+    "zeitleiste": [
+      {
+        "name": "KAS: Grundsatzprogramme der CDU",
+        "url": "https://www.kas.de/de/web/geschichte-der-cdu/grundsatzprogramme"
+      },
+      {
+        "name": "KAS: Zum Grundsatzprogramm der CDU 2024 (Beschluss 07.05.2024)",
+        "url": "https://www.kas.de/de/einzeltitel/-/content/zum-grundsatzprogramm-der-cdu-2024"
+      },
+      {
+        "name": "Wikipedia (en): Leader of the CSU",
+        "url": "https://en.wikipedia.org/wiki/Leader_of_the_Christian_Social_Union_in_Bavaria"
+      },
+      {
+        "name": "Bundesregierung: Bundeskabinett",
+        "url": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett"
+      }
+    ],
+    "vorsitz": [
+      {
+        "name": "Wikipedia (en): Leader of the CDU",
+        "url": "https://en.wikipedia.org/wiki/Leader_of_the_Christian_Democratic_Union_of_Germany"
+      },
+      {
+        "name": "CDU: 38. Parteitag Stuttgart (Wiederwahl Merz, 20./21.02.2026)",
+        "url": "https://www.cdu.de/38-parteitag/"
+      },
+      {
+        "name": "ZDF: Söder als CSU-Chef wiedergewählt (12.12.2025)",
+        "url": "https://www.zdfheute.de/politik/deutschland/markus-soeder-wiederwahl-csu-chef-parteitag-muenchen-bayern-100.html"
+      }
+    ]
+  },
+  "belege_hinweis": {
+    "wahlen": "Zweitstimmen von CDU und CSU zusammen. Rolle: Regierung oder Opposition in der folgenden Wahlperiode. Vorsitz: CDU-Bundesvorsitz am Wahltag.",
+    "zeitleiste": "Rolle im Bund nach Monaten gerundet. CSU-Vorsitz nach Wikipedia, nicht gegen Primärquellen geprüft. Merz wurde am 20.02.2026 wiedergewählt (CDU), Söder am 12.12.2025 (ZDF).",
+    "vorsitz": "CDU-Bundesvorsitz seit Gründung der Bundespartei (Parteitag Goslar, 20.–22.10.1950; Beginn auf den ersten Parteitagstag gesetzt). Amtsdaten nach Wikipedia, nicht vollständig gegen Primärquellen geprüft. Lücken: Schäuble trat am 16.02.2000 zurück, Merkel wurde am 10.04.2000 gewählt; Merz wurde am 22.01.2022 gewählt und trat das Amt nach der Briefwahl am 31.01.2022 an."
+  },
+  "spuren": [
+    "Rolle im Bund",
+    "Vorsitz CDU",
+    "Vorsitz CSU",
+    "Grundsatzprogramm"
+  ]
+}
