@@ -1,5 +1,5 @@
 {
-  "erstellt": "2026-11-10T09:00+01:00",
+  "erstellt": "2026-11-16T09:39+02:00",
   "partei": "CDU/CSU",
   "ebenen": [
     {
@@ -23,9 +23,9 @@
       },
       "wahlergebnis": null,
       "wahltrend": {
-        "wert": 19.7,
-        "delta": null,
-        "stand": "2026-11-07"
+        "wert": 20.2,
+        "delta": 0.5,
+        "stand": "2026-11-14"
       },
       "umfragen": {
         "stand": "2026-11-10T08:30:00+01:00",
